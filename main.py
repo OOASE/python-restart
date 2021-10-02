@@ -156,10 +156,10 @@ Set Types
 '''
 
 # set = set()
-# print(type(set))
-# set = {3.2, 'hello', (1,2,3), 'hello'}
-# print(type(set))
-# print(set)
+print(type(set))
+set = {3.2, 'hello', (1,2,3), 'hello'}
+print(type(set))
+print(set)
 
 #set is immutable, cannot have same values in a variable
 
